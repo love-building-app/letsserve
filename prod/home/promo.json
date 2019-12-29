@@ -7,7 +7,23 @@
       "btn_action": "Later",
       "promo_image":"8.png",
       "background_color":"#01A368",
-      "text_color":"#ffffff"
+      "text_color":"#ffffff",
+      "resources":[
+      "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/1.png",
+        "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/2.jpg",
+        "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/3.jpg",
+        "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/4.jpg",
+        "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/5.gif",
+        "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/6.jpg",
+        "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/7.jpg",
+        "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/8.jpg",
+        "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/9.jpg",
+        "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/10.png",
+        "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/11.jpg",
+        "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/12.png"
+        
+        
+      ]
 
     },
     {
