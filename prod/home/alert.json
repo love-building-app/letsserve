@@ -1,0 +1,11 @@
+{
+
+  "alert": {
+    "title": "Important Update",
+    "subtitle": "Update to the latest version",
+    "positive_btn_text": "Update",
+    "negative_btn_text": "Later",
+    "positive_btn_action": "",
+    "negative_btn_action": ""
+  }
+}
