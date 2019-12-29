@@ -31,19 +31,25 @@
       "subtitle": "Update to the latest version",
       "btn_text": "Update",
       "btn_action": "Later",
-      "promo_image":"collider.png",
-       "background_color":"#ED0A3F",
-      "text_color":"#ffffff"
+            "promo_image":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/photo_editor.jpg",
+
+       "background_color":"#151414",
+      
+      "text_color":"#ffffff",
+      "click":"com.whatsapptool.PhotoEditorImageActivity"
     },
     
     {
-      "title": "Upgrade to Pro",
-      "subtitle": "Remove ads, free stickers and many more",
+      "title": "Stickers",
+      "subtitle": "Get latest Stickers & Make Awesome Stickers",
       "btn_text": "Update",
       "btn_action": "Later",
-      "promo_image":"collider.png",
-       "background_color":"#01A368",
-      "text_color":"#ffffff"
+      
+        "promo_image":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/sticker.png",
+
+       "background_color":"#25D366",
+      "text_color":"#ffffff",
+      "click":"com.whatsapptool.StickerMainActivity"
     }
   ]
 }
