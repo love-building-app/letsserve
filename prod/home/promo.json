@@ -5,7 +5,7 @@
       "subtitle": "Greet friends & Family",
       "btn_text": "Update",
       "btn_action": "Later",
-      "promo_image":"8.png",
+      "promo_image":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/8.jpg",
       "background_color":"#01A368",
       "text_color":"#ffffff",
       "resources":[
