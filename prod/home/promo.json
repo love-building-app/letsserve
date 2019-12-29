@@ -1,12 +1,12 @@
 {
   "promotion": [
     {
-      "title": "Christmas Sticker",
-      "subtitle": "Enjoy the christmas wishes stickers",
+      "title": "Happy New Year 2020",
+      "subtitle": "Greet friends & Family",
       "btn_text": "Update",
       "btn_action": "Later",
-      "promo_image":"collider.png",
-      "background_color":"#000000",
+      "promo_image":"8.png",
+      "background_color":"#01A368",
       "text_color":"#ffffff"
 
     },
