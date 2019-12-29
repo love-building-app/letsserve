@@ -1,0 +1,33 @@
+{
+  "promotion": [
+    {
+      "title": "Christmas Sticker",
+      "subtitle": "Enjoy the christmas wishes stickers",
+      "btn_text": "Update",
+      "btn_action": "Later",
+      "promo_image":"collider.png",
+      "background_color":"#000000",
+      "text_color":"#ffffff"
+
+    },
+    {
+      "title": "Important Update",
+      "subtitle": "Update to the latest version",
+      "btn_text": "Update",
+      "btn_action": "Later",
+      "promo_image":"collider.png",
+       "background_color":"#ED0A3F",
+      "text_color":"#ffffff"
+    },
+    
+    {
+      "title": "Upgrade to Pro",
+      "subtitle": "Remove ads, free stickers and many more",
+      "btn_text": "Update",
+      "btn_action": "Later",
+      "promo_image":"collider.png",
+       "background_color":"#01A368",
+      "text_color":"#ffffff"
+    }
+  ]
+}
