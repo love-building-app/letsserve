@@ -1,79 +1,159 @@
 {
-  "promotion": [
-    {
-      "title": "Happy New Year 2020",
-      "subtitle": "Greet friends & Family",
-      "btn_text": "Update",
-      "btn_action": "Later",
-      "promo_image":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/8.jpg",
-      "background_color":"#ffffff",
-      "text_color":"#ED0A3F",
-      "click":"com.whatsapptool.FullScreenImageActivity",
-      "resources":[
-      "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/1.png",
-        "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/2.jpg",
-        "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/3.jpg",
-        "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/4.jpg",
-        "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/5.gif",
-        "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/6.jpg",
-        "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/7.jpg",
-        "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/8.jpg",
-        "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/9.jpg",
-        "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/10.png",
-        "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/11.jpg",
-        "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/12.png"
-        
-        
-      ]
+	"promotion": [{
+			"title": "Happy New Year 2020",
+			"subtitle": "Greet friends & Family",
+			"btn_text": "Update",
+			"btn_action": "Later",
+			"promo_image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/8.jpg",
+			"background_color": "#ffffff",
+			"text_color": "#ED0A3F",
+			"click": "com.whatsapptool.FullScreenImageActivity",
+			"resources": [
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/1.png",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/2.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/3.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/4.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/5.gif",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/6.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/7.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/8.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/9.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/10.png",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/11.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/12.png"
 
-    },
-    {
-      "title": "Automatically send on WhatsApp",
-      "subtitle": "Magically send message to all. Try Now",
-      "btn_text": "Update",
-      "btn_action": "Later",
-       "promo_image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/12.png",
 
-       "background_color":"#80cbc4",
-      
-      "text_color":"#333333",
-      "click":"com.whatsapptool.ForwardAllMessageActivity"
-    },
-    {
-      "title": "All in one Photo Editior",
-      "subtitle": "Create awesome photos",
-      "btn_text": "Update",
-      "btn_action": "Later",
-            "promo_image":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/photo_editor.jpg",
+			]
 
-       "background_color":"#151414",
-      
-      "text_color":"#ffffff",
-      "click":"com.whatsapptool.WtDownloadActivity"
-    },
-    {
-      "title": "Wish Happy New Year 2020",
-      "subtitle": "100+ wishes messages",
-      "btn_text": "Update",
-      "btn_action": "Later",
-            "promo_image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/10.png",
-"resources":["Happy New Year 2020","Wish you a great new year ahead"],
-       "background_color":"#8e24aa",
-      
-      "text_color":"#ffffff",
-      "click":"com.whatsapptool.CaptionListActivity"
-    },
-    {
-      "title": "Stickers",
-      "subtitle": "Get latest Stickers & Make Awesome Stickers",
-      "btn_text": "Update",
-      "btn_action": "Later",
-      
-        "promo_image":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/sticker.png",
+		},
+		{
+			"title": "Automatically send on WhatsApp",
+			"subtitle": "Magically send message to all. Try Now",
+			"btn_text": "Update",
+			"btn_action": "Later",
+			"promo_image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/12.png",
 
-       "background_color":"#ffffff",
-      "text_color":"#25D366",
-      "click":"com.whatsapptool.StickerMainActivity"
-    }
-  ]
+			"background_color": "#80cbc4",
+
+			"text_color": "#333333",
+			"click": "com.whatsapptool.ForwardAllMessageActivity"
+		},
+		{
+			"title": "All in one Photo Editior",
+			"subtitle": "Create awesome photos",
+			"btn_text": "Update",
+			"btn_action": "Later",
+			"promo_image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/photo_editor.jpg",
+
+			"background_color": "#151414",
+
+			"text_color": "#ffffff",
+			"click": "com.whatsapptool.WtDownloadActivity"
+		},
+		{
+			"title": "Wish Happy New Year 2020",
+			"subtitle": "100+ wishes messages",
+			"btn_text": "Update",
+			"btn_action": "Later",
+			"promo_image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/10.png",
+			"resources": ["May health and happiness follow you and yours during the year to come.Happy New Year!",
+
+				"For somebody with a smile so bright, may you’ve just sunny days and happy ideas that the year through!",
+
+				"Whether your resolves lasted or not it’s time to solve all again Happy New Year!",
+
+				"Wishing You a Brand New Year, Bursting With Joy, Roaring With Laughter And Full Of Fun.",
+
+				"Wishing you a year of happiness and good health as this year comes to a conclusion.",
+
+				"Here’s to an exciting new year and all of the wishes and promises it has to offer you.",
+
+				"Proceed & Welcome 2020\nMay you research new opportunities\nMay you receive outstanding reward\nHappy New Year!",
+
+				"May Your Dreams And Wishes Come True, and May Prosperity Touch Your Own Feet. Wishing you a Happy New Year.",
+
+				"I expect you’ll get the strength to forego the past year and anticipate some promising new year ahead of time.",
+
+				"What is done is done, and as you look back to the year, learn in the past and wish for a brighter future in light of these lessons learned.",
+
+				"What a growth you attained\nYou deserve every bit of it\nMay you do good again\nHappy New Year!",
+
+				"I wish this year comes to a conclusion it also ends all of the issues and since the New Year dawns it attracts all of the successes and happiness for you and your family.",
+
+				"Friends really are a treasure and that I treasure our friendship and wish that blessings and expect fill your soul!",
+
+				"May you be fit, gain awareness, and possess happiness in whatever you do. Happy New Year!",
+
+				"Have a Happy New Year’s Day\nAdditionally, have a Great Deal of happy days ahead of this year.\nKeep Healthy and blessed!",
+
+				"My Wishes for You, Great Start for Jan, Love for Feb, Peace for March, No Worries for April,” Fun for May, Joy for June to November, Happiness for December. Take a Fantastic and Lucky Year!",
+
+				"Leaving items of old behind, may new, adventuresome fulfill your days. Happy New Year!",
+
+				"I wish for you boundless happiness, intellect, strength, and endurance as you adopt a different year to come.",
+
+				"Last year was really a roller coaster journey,\nWishing you strength, endurance, courage and happiness throughout the year.\nHappy New Year!",
+
+				"Wishing you all the very best for this New Year, Let all of the issues melt in the fire of candles, And all of the good things come into your life.",
+
+				"I trust you find true love in the new year, settle down, and get married. Life is too short to spend it.",
+
+				"Life is an experience wishing you the chance to discover exciting experiences the year through.",
+
+				"You’re globetrotting\nAnd enjoying every piece of it\nMay your journeys be safe and profitable\nHappy New Year!",
+
+				"Stay at Good Health and Achieve Greater Heights of Success. Wishing You a Year Ahead! — Happy New Year 2020",
+
+				"May your heart be full of cheer, your brain is full of pleasure, and your days full of happiness.",
+
+				"Wishing you each fantastic and wondrous thing that the year can provide.",
+
+				"The link you assert with me\nMakes me happen\nThank you!\nHappy New Year!!!",
+
+				"I wish that 2020 provides you lovely moments to cherish and to keep on your heart to make wonderful memories that you want to appear back upon every now and then.",
+
+				"Hoping your coffee cup remains complete, along with the year to come is full of good memories.",
+
+				"Wishing you the happiest of New Years.",
+
+				"My wish for you is that you’re healthy, happy, and full of joy in the upcoming year.",
+
+				"Yup! You needed a ride this year.\nWishing you a relaxed and profitable 2020\nHappy New Year!",
+
+				"Each year leaves a hint, Something is granted and something is removed,  I wish you glowing days and joyous ideas",
+
+				"May your ventures are prosperous, your blessings be many, and you have the best new year ever.",
+
+				"May the street bend to satisfy you personally, sunlight glow to greet you personally, and blessings always warm your heart.",
+
+				"Time to establish ambitious goals for 2020\nTime to say much better luck now\nHappy New Year!",
+
+				"I’d like to say how much pleasure you’ve given me and wish to your pleasure and happiness in return. Happy New Year!",
+
+				"Hoping you get a joyous year with several new memories and a friend made.",
+
+				"Wishing you always have a warm spot to rest in which love and affection will constantly embrace you.",
+
+				"Based on my forecast\nYour health and riches\nare place to improve substantially\nHappy New Year!",
+
+				"Friend, neighbour, confidante: you’ve improved my life that, as we enter into a new year, I wish for you all of the love you’ve shown me. Happy New Year"
+			],
+			"background_color": "#8e24aa",
+
+			"text_color": "#ffffff",
+			"click": "com.whatsapptool.CaptionListActivity"
+		},
+		{
+			"title": "Stickers",
+			"subtitle": "Get latest Stickers & Make Awesome Stickers",
+			"btn_text": "Update",
+			"btn_action": "Later",
+
+			"promo_image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/sticker.png",
+
+			"background_color": "#ffffff",
+			"text_color": "#25D366",
+			"click": "com.whatsapptool.StickerMainActivity"
+		}
+	]
 }
