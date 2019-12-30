@@ -28,13 +28,13 @@
 
     },
     {
-      "title": "Send message automatically on WhatsApp",
+      "title": "Automatically send on WhatsApp",
       "subtitle": "Magically send message to all. Try Now",
       "btn_text": "Update",
       "btn_action": "Later",
-            
+       "promo_image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/12.png",
 
-       "background_color":"#ffffff",
+       "background_color":"#80cbc4",
       
       "text_color":"#333333",
       "click":"com.whatsapptool.ForwardAllMessageActivity"
@@ -56,7 +56,7 @@
       "subtitle": "100+ wishes messages",
       "btn_text": "Update",
       "btn_action": "Later",
-            
+            "promo_image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/10.png",
 "resources":["Happy New Year 2020","Wish you a great new year ahead"],
        "background_color":"#8e24aa",
       
