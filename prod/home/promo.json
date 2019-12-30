@@ -8,6 +8,7 @@
       "promo_image":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/8.jpg",
       "background_color":"#ffffff",
       "text_color":"#ED0A3F",
+      "click":"com.whatsapptool.FullScreenImageActivity",
       "resources":[
       "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/1.png",
         "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/2.jpg",
@@ -27,8 +28,20 @@
 
     },
     {
-      "title": "Important Update",
-      "subtitle": "Update to the latest version",
+      "title": "Send message automatically on WhatsApp",
+      "subtitle": "Magically send message to all. Try Now",
+      "btn_text": "Update",
+      "btn_action": "Later",
+            
+
+       "background_color":"#ffffff",
+      
+      "text_color":"#333333",
+      "click":"com.whatsapptool.ForwardAllMessageActivity"
+    },
+    {
+      "title": "All in one Photo Editior",
+      "subtitle": "Create awesome photos",
       "btn_text": "Update",
       "btn_action": "Later",
             "promo_image":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/photo_editor.jpg",
@@ -36,9 +49,20 @@
        "background_color":"#151414",
       
       "text_color":"#ffffff",
-      "click":"com.whatsapptool.PhotoEditorImageActivity"
+      "click":"com.whatsapptool.WtDownloadActivity"
     },
-    
+    {
+      "title": "Wish Happy New Year 2020",
+      "subtitle": "100+ wishes messages",
+      "btn_text": "Update",
+      "btn_action": "Later",
+            
+"resources":["Happy New Year 2020","Wish you a great new year ahead"],
+       "background_color":"#8e24aa",
+      
+      "text_color":"#ffffff",
+      "click":"com.whatsapptool.CaptionListActivity"
+    },
     {
       "title": "Stickers",
       "subtitle": "Get latest Stickers & Make Awesome Stickers",
@@ -47,8 +71,8 @@
       
         "promo_image":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/sticker.png",
 
-       "background_color":"#25D366",
-      "text_color":"#ffffff",
+       "background_color":"#ffffff",
+      "text_color":"#25D366",
       "click":"com.whatsapptool.StickerMainActivity"
     }
   ]
