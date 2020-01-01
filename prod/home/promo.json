@@ -1,5 +1,28 @@
 {
-	"promotion": [{
+	"promotion": [
+
+		{
+			"title": "New year celebration 2020",
+			"subtitle": "latest best photos of new year celebration",
+			"btn_text": "Update",
+			"btn_action": "Later",
+			"promo_image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n1.jpg",
+			"resources": ["https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n1.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n2.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n3.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n4.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n5.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n6.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n7.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n8.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n9.mp4"
+			],
+			"background_color": "#000000",
+
+			"text_color": "#ffffff",
+			"click": "com.whatsapptool.FullScreenImageActivity"
+		},
+		{
 			"title": "Happy New Year 2020",
 			"subtitle": "Greet friends & Family",
 			"btn_text": "Update",
