@@ -2,62 +2,26 @@
 	"promotion": [
 
 		{
-			"title": "New year celebration 2020",
-			"subtitle": "latest best photos of new year celebration",
+			"title": "Best WhatsApp Status 2020",
+			"subtitle": "Daily status for you. Check Now.",
 			"btn_text": "Update",
 			"btn_action": "Later",
-			"promo_image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n1.jpg",
-			"resources": ["https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n1.jpg",
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n2.jpg",
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n3.jpg",
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n4.jpg",
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n5.jpg",
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n6.jpg",
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n7.jpg",
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n8.jpg",
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n9.mp4"
+			"promo_image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/daily_status/new_status_nature.jpg",
+			"resources": [
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/daily_status/new_status_nature.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/daily_status/wT_ig_80957424_182836246198670_2047981204568388022_n.mp4",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/daily_status/wT_ig_81330812_180506193142631_5322120566849387176_n.mp4",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/daily_status/wT_ig_81641278_1419239841569299_4575695429473223518_n.mp4",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/daily_status/wT_ig_81754512_785393431929999_6637664724509502519_n.mp4",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/daily_status/wT_ig_81861684_578694096022898_4071755039329109421_n.mp4",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/daily_status/wT_ig_81971087_202791027554439_6739257204517029993_n.mp4",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/daily_status/T_ig_82132888_205743823780064_4251216601267837982_n.mp4"
+
 			],
-			"background_color": "#000000",
+			"background_color": "#4a148c",
 
 			"text_color": "#ffffff",
 			"click": "com.whatsapptool.FullScreenImageActivity"
-		},
-		{
-			"title": "Happy New Year 2020",
-			"subtitle": "Greet friends & Family",
-			"btn_text": "Update",
-			"btn_action": "Later",
-			"promo_image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/8.jpg",
-			"background_color": "#ffffff",
-			"text_color": "#ED0A3F",
-			"click": "com.whatsapptool.FullScreenImageActivity",
-			"resources": [
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/a0.jpg",
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/a1.jpeg",
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/a12.jpg",
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/a13.jpg",
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/a3.jpeg",
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/a2.jpeg",
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/a4.jpeg",
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/a5.jpeg",
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/a6.jpeg",
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/a7.jpeg",
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/1.png",
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/2.jpg",
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/3.jpg",
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/4.jpg",
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/5.gif",
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/6.jpg",
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/7.jpg",
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/8.jpg",
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/9.jpg",
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/10.png",
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/11.jpg",
-				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/12.png"
-
-
-			]
-
 		},
 		{
 			"title": "Automatically send on WhatsApp",
@@ -175,6 +139,64 @@
 
 			"text_color": "#ffffff",
 			"click": "com.whatsapptool.CaptionListActivity"
+		},
+		{
+			"title": "New year celebration 2020",
+			"subtitle": "latest best photos of across the world",
+			"btn_text": "Update",
+			"btn_action": "Later",
+			"promo_image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n1.jpg",
+			"resources": ["https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n1.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n2.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n3.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n4.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n5.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n6.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n7.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n8.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/celebration_2020/n9.mp4"
+			],
+			"background_color": "#000000",
+
+			"text_color": "#ffffff",
+			"click": "com.whatsapptool.FullScreenImageActivity"
+		},
+		{
+			"title": "Happy New Year 2020",
+			"subtitle": "Greet friends & Family",
+			"btn_text": "Update",
+			"btn_action": "Later",
+			"promo_image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/8.jpg",
+			"background_color": "#ffffff",
+			"text_color": "#ED0A3F",
+			"click": "com.whatsapptool.FullScreenImageActivity",
+			"resources": [
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/a0.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/a1.jpeg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/a12.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/a13.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/a3.jpeg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/a2.jpeg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/a4.jpeg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/a5.jpeg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/a6.jpeg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/a7.jpeg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/1.png",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/2.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/3.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/4.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/5.gif",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/6.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/7.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/8.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/9.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/10.png",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/11.jpg",
+				"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/12.png"
+
+
+			]
+
 		},
 		{
 			"title": "Stickers",
