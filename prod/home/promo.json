@@ -7,9 +7,9 @@
 			"subtitle": "Magically send message to all. Try Now",
 			"btn_text": "Update",
 			"btn_action": "Later",
-			"promo_image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/12.png",
+			"promo_image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/forward_all_image.jpeg",
 
-			"background_color": "#80cbc4",
+			"background_color": "#42B1AF",
 
 			"text_color": "#333333",
 			"click": "com.whatsapptool.ForwardAllMessageActivity"
