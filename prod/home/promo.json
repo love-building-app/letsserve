@@ -11,7 +11,7 @@
 
 			"background_color": "#42B1AF",
 
-			"text_color": "#333333",
+			"text_color": "#ffffff",
 			"click": "com.whatsapptool.ForwardAllMessageActivity"
 		},
 		{
