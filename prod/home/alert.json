@@ -1,16 +1,16 @@
 {
 
   "alert": {
-   {
+   
 			"title": "Best WhatsApp Status 2020",
 			"subtitle": "Daily status for you. Check Now.",
 			"btn_text": "Update",
 			"btn_action": "Later",
 			"promo_image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/daily_status/new_status_nature.jpg",
 			"background_color": "#4a148c",
-      "update_number":0,
+      			"update_number":0,
 			"text_color": "#ffffff",
 			"click": "com.whatsapptool.FullScreenImageActivity"
-		}
+		
   }
 }
