@@ -9,7 +9,7 @@
       			"update_number":0,
 	  		"promo_image":"https://miro.medium.com/max/1400/1*C08JRjItwRE6_2_N_M1p1g.png",
 			"text_color": "#ffffff",
-			"click": "app_store",
+			"click": "web_page",
 	  		"click_data":"https://uxplanet.org/best-practices-in-mobile-app-design-in-2020-7f5026818ade"
 		
   }
