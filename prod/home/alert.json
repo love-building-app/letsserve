@@ -2,13 +2,15 @@
 
   "alert": {
    
-			"title": "New update available",
+			"title": "Best practices in Mobile App",
 			"subtitle": "the way shown in the DialogFragment link was one way of doing this in a multi appearing fragment with one specific type of data and works fine most of the time, but you can also do this manually. Create dialog fragment object with make setter method and pass value/argument. Pass value/argument through bundle.",
-			"btn_text": "Update Now",
+			"btn_text": "Open it ",
 			"background_color": "#4a148c",
       			"update_number":0,
+	  		"promo_image","https://miro.medium.com/max/1400/1*C08JRjItwRE6_2_N_M1p1g.png",
 			"text_color": "#ffffff",
-			"click": "app_store"
+			"click": "app_store",
+	  		"click_data":"https://uxplanet.org/best-practices-in-mobile-app-design-in-2020-7f5026818ade"
 		
   }
 }
