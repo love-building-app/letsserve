@@ -6,7 +6,7 @@
 			"subtitle": "the way shown in the DialogFragment link was one way of doing ",
 			"btn_text": "Update Now",
 			"background_color": "#4a148c",
-      			"update_number":1,
+      			"update_number":2,
 	  		"promo_image":"https://miro.medium.com/max/1400/1*C08JRjItwRE6_2_N_M1p1g.png",
 			"text_color": "#ffffff",
 			"click": "app_store",
