@@ -3,15 +3,15 @@
 
   "alert": {
    
-			"title": "igTool",
-			"subtitle": "the way shown in the DialogFragment link was one way of doing ",
+			"title": "WhatsApp New Update",
+			"subtitle": "8 members Group Video call now in WhatsApp",
 			"btn_text": "Update Now",
 			"background_color": "#4a148c",
-      			"update_number":2,
-	  		"promo_image":"https://miro.medium.com/max/1400/1*C08JRjItwRE6_2_N_M1p1g.png",
+      			"update_number":3,
+	  		"promo_image":"https://pbs.twimg.com/media/EWtAzHLU8AEmeN5?format=jpg",
 			"text_color": "#ffffff",
 			"click": "app_store",
-	  		"click_data":"igtool.toolsforinstagram.instagramphotodownloader.instagramvideodownloader.repost"
+	  		"click_data":"com.whatsapp"
 		
   }
 }
