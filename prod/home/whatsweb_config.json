@@ -1,0 +1,20 @@
+{
+	"userAgent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/60.0.3112.113 Safari\/537.36",
+	"checkIfGalleryOpened": "var temp = document.getElementsByClassName('_2-IeP _39uZ2 _2_FdF');NativeInterface.chatWindowOpened(temp.length);  var temp = document.getElementsByClassName('_1f-xF');NativeInterface.statusWindowOpened(temp.length);",
+	"checkIfGalleryIsOpened": "var temp = document.getElementsByClassName('_2-IeP _39uZ2 _2_FdF');NativeInterface.chatWindowIsOpened(temp.length); var temp = document.getElementsByClassName('_1f-xF');NativeInterface.statusWindowIsOpened(temp.length);var qrcode = document.getElementsByClassName('qrcode');NativeInterface.qrCodeIsShowing(qrcode.length);",
+	"reArrangeGallaryUI": "document.getElementsByClassName('_2-IeP _39uZ2 _2_FdF')[0].style.display = 'none';  document.getElementsByClassName('_2-IeP _39uZ2 _4GQj1 _1iei9')[0].style.display = 'none';document.getElementsByClassName('_3vmBo _1-EoY')[0].parentElement.style.width='60%';document.getElementsByClassName('_3vmBo _1-EoY')[0].parentElement.style.height='auto';",
+	"reArragngeStatusUI": "document.getElementsByClassName('bZ3B9')[0].style.width = '100%';document.getElementsByClassName('Le35d')[0].style.width = '0%';document.getElementsByClassName('Le35d')[0].style.left = '-20%';",
+	"closeCrossBtn": "var temp = document.getElementsByClassName('icon icon-x-viewer'); temp[0].click();",
+	"closestatusCrossBtn": "var temp = document.getElementsByClassName('_1f-xF'); temp[0].click();",
+	"MediaDownloadScript": "(function() {var link = document.getElementsByClassName('jdRPo')[0].childNodes[0].childNodes[0].childNodes[0].getAttribute('src');var reader = new window.FileReader();reader.onload = function() {NativeInterface.saveImage(reader.result, link);};var xhr = new XMLHttpRequest();xhr.open('GET', link, true);xhr.responseType = 'blob';xhr.onload = function(e) {if (this.status == 200 ) {var myBlob = this.response;reader.readAsDataURL(myBlob);}};xhr.send();})()",
+	"statusImageDaownload": "var link = document.getElementsByClassName('rotate-focus-container')[0].getElementsByTagName('img');var imgUrl = '';for(i= 0; i \u003C link.length; i ++){nameVar = link[i].src.indexOf('blob');if(nameVar == 0){ imgUrl = link[i].src;} }var reader = new window.FileReader();reader.onload = function() {NativeInterface.saveImage(reader.result, imgUrl);};var xhr = new XMLHttpRequest();xhr.open('GET', imgUrl, true);xhr.responseType = 'blob';xhr.onload = function(e) {if (this.status == 200 ) {var myBlob =  this.response;reader.readAsDataURL(myBlob); }};xhr.send();",
+	"statusVideoDownload": "var link = document.getElementsByClassName('rotate-focus-container')[0].getElementsByTagName('video');var imgUrl = '';for(i= 0; i \u003C link.length; i ++){nameVar = link[i].src.indexOf('blob');if(nameVar == 0){ imgUrl = link[i].src;} }var reader = new window.FileReader();reader.onload = function() {NativeInterface.saveImage(reader.result, imgUrl);};var xhr = new XMLHttpRequest();xhr.open('GET', imgUrl, true);xhr.responseType = 'blob';xhr.onload = function(e) {if (this.status == 200 ) {var myBlob =  this.response;reader.readAsDataURL(myBlob); }};xhr.send();",
+	"showimagebutton": "var imgUrl = '';var link = document.getElementsByClassName('rotate-focus-container')[0].getElementsByTagName('img');\n           var imgUrl = '';for(i= 0; i \u003C link.length; i ++){var nameVar = link[i].src.indexOf('blob');if(nameVar == 0){imgUrl = link[i].src; }} \n           NativeInterface.setStatusImgDownloadButton(imgUrl.length);",
+	"showvidebutton": "var imgUrl = '';var link = document.getElementsByClassName('rotate-focus-container')[0].getElementsByTagName('video');\n          var imgUrl = '';for(i= 0; i \u003C link.length; i ++){var nameVar = link[i].src.indexOf('blob');if(nameVar == 0){imgUrl = link[i].src;}} \n           NativeInterface.setStatusVideoDownloadButton(imgUrl.length);",
+	"message": "Data found successfully",
+
+	"status": true,
+
+	"whatsweb_link": "https://web.whatsapp.com/%F0%9F%8C%90/en"
+
+}
