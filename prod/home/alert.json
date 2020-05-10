@@ -3,15 +3,15 @@
 
   "alert": {
    
-			"title": "WhatsApp New Update",
-			"subtitle": "8 members Group Video call now in WhatsApp",
+			"title": " 👋New update available (1.7.8)",
+			"subtitle": "You can use multiple WhatsApp account 📱by using WhatsWeb in our app 😀.  <br> Many improvement in the app. ",
 			"btn_text": "Update Now",
 			"background_color": "#4a148c",
-      			"update_number":3,
-	  		"promo_image":"https://pbs.twimg.com/media/EWtAzHLU8AEmeN5?format=jpg",
+      			"update_number":4,
+	  	
 			"text_color": "#ffffff",
 			"click": "app_store",
-	  		"click_data":"com.whatsapp"
+	  		"click_data":"com.whatstools.statussaver.directchat.trendingstatus.searchprofile"
 		
   }
 }
