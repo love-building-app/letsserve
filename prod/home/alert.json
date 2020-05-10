@@ -8,7 +8,7 @@
 			"btn_text": "Update Now",
 			"background_color": "#4a148c",
       			"update_number":4,
-	  	
+	  		"promo_image":"https://fscl01.fonpit.de/userfiles/7611461/image/Whatsapp_04-w810h462.jpg",
 			"text_color": "#ffffff",
 			"click": "app_store",
 	  		"click_data":"com.whatstools.statussaver.directchat.trendingstatus.searchprofile"
