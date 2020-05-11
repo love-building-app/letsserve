@@ -1,10 +1,10 @@
 {
-	"show_alert":false,
+	"show_alert":true,
 
   "alert": {
    
 			"title": "WhatsApp trick: How to find out whom you’re talking to the most",
-			"subtitle": "Follow these 4 steps <br>1.Open WhatsApp and tap on the Three Dots on the top right corner.<br>2.Click on Settings and then tap on Data and storage usage.<br>3. Next tap on Storage Usage which will show the list of groups and WhatsApp users you’re talking to the most. ",
+			"subtitle": "Follow these 3 steps <br>1.Open WhatsApp and tap on the Three Dots on the top right corner.<br>2.Click on Settings and then tap on Data and storage usage.<br>3. Next tap on Storage Usage which will show the list of groups and WhatsApp users you’re talking to the most. ",
 			"btn_text": "OK",
 			"background_color": "#4a148c",
       			"update_number":5,
