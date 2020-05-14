@@ -3,12 +3,12 @@
 
   "alert": {
    
-			"title": "Format WhatsApp Messages: Change font, Bold, italics, strikethrough",
-			"subtitle": "Follow two steps<br><b>1.</b> just long-press the portion of text you wish to format after typing it in the message input field.<br><b>2.</b> Now you will get the option to change the format to bold, strikethrough, or italics. You can also ‘Monospace’ option to change the font. ",
+			"title": "Check exactly when a particular person read your Whatsapp message",
+			"subtitle": "<b>1.</b> Long press the particular message you wish to inquire about.<br><b>2.</b> Now press the ‘i’ icon in the top bar and you will see when the person reads your message.",
 			"btn_text": "Wow, Got it",
 			"background_color": "#4a148c",
-      			"update_number":7,
-	  		"promo_image":"https://i0.wp.com/www.smartprix.com/bytes/wp-content/uploads/2018/01/Screenshot_20180125-181947.jpg",
+      			"update_number":8,
+	  		"promo_image":"https://i2.wp.com/www.smartprix.com/bytes/wp-content/uploads/2018/01/Screenshot_20180125-180404.jpg",
 			"text_color": "#ffffff",
 			"click": "",
 	  		"click_data":""
