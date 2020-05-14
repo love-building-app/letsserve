@@ -4,7 +4,7 @@
   "alert": {
    
 			"title": "Format WhatsApp Messages: Change font, Bold, italics, strikethrough",
-			"subtitle": "Follow two steps<br>1. just long-press the portion of text you wish to format after typing it in the message input field.<b>2. Now you will get the option to change the format to bold, strikethrough, or italics. You can also ‘Monospace’ option to change the font. ",
+			"subtitle": "Follow two steps<br><b>1.</b> just long-press the portion of text you wish to format after typing it in the message input field.<br><b>2.</b> Now you will get the option to change the format to bold, strikethrough, or italics. You can also ‘Monospace’ option to change the font. ",
 			"btn_text": "Wow, Got it",
 			"background_color": "#4a148c",
       			"update_number":7,
