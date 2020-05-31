@@ -3,13 +3,13 @@
 
 
 		{
-			"title": "Remove Chinese App",
+			"title": "Remove Chinese Apps",
 			"subtitle": "Scan now to remove Chinese app",
 			"btn_text": "Scan Now",
 			"btn_action": "Later",
-			"promo_image": "https://github.com/love-building-app/letsserve/blob/master/prod/home/promo-image/remove_china_app_icon.png",
+			"promo_image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/remove_china_app_icon.png",
 
-			"background_color": "#d50000",
+			"background_color": "#00838f",
 
 			"text_color": "#ffffff",
 			"click": "com.whatsapptool.RemoveChinaAppActivity"
