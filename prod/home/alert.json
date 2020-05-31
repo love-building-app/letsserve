@@ -1,5 +1,5 @@
 {
-	"show_alert":true,
+	"show_alert":false,
 
   "alert": {
    
@@ -7,7 +7,7 @@
 			"subtitle": "Download this app to remove all chinese apps in a click. Simple & Awesome",
 			"btn_text": "Download Now",
 			"background_color": "#4a148c",
-      			"update_number":10,
+      			"update_number":-1,
 	  		"promo_image":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/remove_china_app_icon.png",
 			"text_color": "#ffffff",
 			"click": "app_store",
