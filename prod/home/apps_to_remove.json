@@ -1,7 +1,5 @@
 {
-	"apps": [
-
-		"app.buzz.share",
+	"apps_list": ["app.buzz.share",
         "app.buzz.share.lite",
         "com.lenovo.anyshare.gps",
         "shareit.lite",
