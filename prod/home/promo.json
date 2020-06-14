@@ -11,7 +11,8 @@
 			"background_color": "#d62976",
 
 			"text_color": "#ffffff",
-			"click": "igtool.toolsforinstagram.instagramphotodownloader.instagramvideodownloader.repost"
+			"click_data":"igtool.toolsforinstagram.instagramphotodownloader.instagramvideodownloader.repost",
+			"click": "app_store"
 		},
 
 		{
