@@ -1,0 +1,109 @@
+{
+    "templates":[
+        {
+            "category": "Greetings",
+            "message": "Hi, How are you?"
+        },
+        {
+            "category": "Greetings",
+            "message": "Where are you?"
+        },
+        {
+            "category": "Greetings",
+            "message": "When will you reach?"
+        },
+        {
+            "category": "Greetings",
+            "message": "I have reached home."
+        },
+        {
+            "category": "Greetings",
+            "message": "Have you had dinner?"
+        },
+        {
+            "category": "Greetings",
+            "message": "You are Somebody’s reason to Smile."
+        },
+        {
+            "category": "Festivals",
+            "message": "A festival full of sweet memories, A sky full of lights, Mouth full of sweets, And heart full of joy. Wishing you all a Very Happy Diwali."
+        },
+        {
+            "category": "Festivals",
+            "message": "As you celebrate Diwali, please note that my wishes are there with you for a safe and Happy Diwali!"
+        },
+        {
+            "category": "Festivals",
+            "message": "Blessings are with you this festival of lights and always. Happy Diwali."
+        },
+        {
+            "category": "Festivals",
+            "message": "I am wishing that the bright lights of Diwali guide you through your way out of every streak of trials in your life. Diwali wishes to you and your family."
+        },
+        {
+            "category": "Festivals",
+            "message": "Celebrate life, not just festivals."
+        },
+        {
+            "category": "Festivals",
+            "message": "Live every day as if it is a festival. Turn your life into a celebration."
+        },
+        {
+            "category": "Festivals",
+            "message": "May this festival be one that brings along with it all that’s best and everything you deserve."
+        },
+        {
+            "category": "Festivals",
+            "message": "May this festival be the start of the year that will bring your joy and happiness! Best wishes to you and your family."
+        },
+        {
+            "category": "Festivals",
+            "message": "Sending you my cheerful wishes and warmest greetings for a joyous and Festive Season."
+        },
+        {
+            "category": "Festivals",
+            "message": "Share our similarities. Celebrate our differences."
+        },
+        {
+            "category": "Sales",
+            "message": "Enjoy the early Diwali sale."
+        },
+        {
+            "category": "Sales",
+            "message": "Get the perfect Diwali gift."
+        },
+        {
+            "category": "Sales",
+            "message": "Spread happiness with others and shop with us."
+        },
+        {
+            "category": "Sales",
+            "message": "Christmas Hot Sale Up to 50% Off."
+        },
+        {
+            "category": "Sales",
+            "message": "Create your memory with our Christmas sale."
+        },
+        {
+            "category": "Sales",
+            "message": "An exclusive 50% OFF in-store! Christmas wishes do come true."
+        },
+        {
+            "category": "Sales",
+            "message": "Buckle up for the mega offer sales."
+        },
+        {
+            "category": "Sales",
+            "message": "Enjoy this holiday with huge discounts."
+        },
+        {
+            "category": "Sales",
+            "message": "Get whatever your heart desires."
+        },
+        {
+            "category": "Sales",
+            "message": "The mega offer sale is here. Where are you?"
+        }
+    ]
+    
+}
