@@ -1,14 +1,5 @@
 [
     {
-        "name":"Sujeet Kr. Mehta",
-        "designation":"Founder, CEO",
-        "image_url":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/team/ProfileSujeet.jpeg",
-        "sm_facebook":"",
-        "sm_instagram":"",
-        "sm_twitter":"https://twitter.com/Sujeet05462752",
-        "sm_linkedln":"https://www.linkedin.com/in/sujeetkumarmehta/"
-    },
-    {
         "name":"Ashish Kumar",
         "designation":"Software Developer",
         "image_url":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/team/ProfileAshish.jpeg",
