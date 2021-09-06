@@ -1,0 +1,47 @@
+[
+    {
+        "name":"Ashish Kumar",
+        "designation":"Software Developer",
+        "image_url":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/team/ProfileAshish.jpeg",
+        "sm_facebook":"https://www.facebook.com/profile.php?id=100007205860745",
+        "sm_instagram":"https://www.instagram.com/ak4344343/",
+        "sm_twitter":"",
+        "sm_linkedln":"https://www.linkedin.com/in/ashish-kumar-6a7518186/"
+    },
+    {
+        "name":"Mayank Kumar",
+        "designation":"Software Developer",
+        "image_url":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/team/ProfileMayank.jpeg",
+        "sm_facebook":"https://www.facebook.com/profile.php?id=100069010212144",
+        "sm_instagram":"https://twitter.com/Mayank_UOI",
+        "sm_twitter":"https://www.instagram.com/Mayank_UOI/",
+        "sm_linkedln":"https://www.linkedin.com/in/mayank-uoi/"
+    },
+    {
+        "name":"Shourabh Kumar Raja",
+        "designation":"Quality Analyst",
+        "image_url":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/team/ProfileShourabh.jpeg",
+        "sm_facebook":"",
+        "sm_instagram":"",
+        "sm_twitter":"",
+        "sm_linkedln":"https://www.linkedin.com/in/shourabh-kumar-raja-643671177/"
+    },
+    {
+        "name":"Suryanshu Raj",
+        "designation":"Customer Service Strategist",
+        "image_url":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/team/ProfileSuryanshu.jpeg",
+        "sm_facebook":"",
+        "sm_instagram":"",
+        "sm_twitter":"https://twitter.com/SuryanshuRaj19",
+        "sm_linkedln":"https://www.linkedin.com/in/suryanshu-raj-18a31a21b/"
+    },
+    {
+        "name":"Suraj Kumar",
+        "designation":"Undefined, Fits into every thing.",
+        "image_url":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/team/ProfileSuraj.jpeg",
+        "sm_facebook":"https://www.facebook.com/people/Suraj-Kumar/100022672839867/",
+        "sm_instagram":"https://www.instagram.com/suraj_0906/",
+        "sm_twitter":"",
+        "sm_linkedln":"https://www.linkedin.com/in/suraj-kumar-30a3a41a5/"
+    }
+]
