@@ -1,0 +1,20 @@
+{
+	"upgrade": {
+		"title": "Unlock Growth",
+		"subtitle": "and reach on most trusted app",
+		"btn_text": "Upgrade Premium",
+		"btn_action": "Later",
+		"click": "whatstool_pro",
+		"background_image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/ic_growth_premium_bg.png",
+		"background_color": "#9021CD5B"
+	},
+	"share": {
+		"title": "Share with ",
+		"subtitle": "friends and lovely friends",
+		"btn_text": "Share now",
+		"btn_action": "Later",
+		"click": "share_app_dialog",
+		"right_image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/promo-image/ic_share_friends.png",
+		"background_color": "#00AAA8"
+	}
+}
