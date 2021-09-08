@@ -1,0 +1,59 @@
+{
+	"personal": {
+		"home": [
+
+			"most_used_tool",
+			"direct_chat",
+			"medium_native_ad",
+			"status",
+			"bottom_cta"
+		],
+		"explore": [
+			"chat_analysis",
+			"caption_quick_reply",
+			"funny_chat",
+			"medium_native_ad",
+			"bulk_sender"
+		]
+	},
+	"business": {
+		"home": [
+			"bulk_sender",
+			"direct_chat",
+			"learn_demo_video",
+			"medium_native_ad",
+			"bottom_cta"
+		],
+		"explore": [
+			"status",
+			"most_used_tool",
+			"chat_analysis",
+			"caption_quick_reply",
+			"funny_chat",
+			"medium_native_ad"
+
+		]
+	},
+	"both": {
+		"home": [
+			"bulk_sender",
+			"direct_chat",
+			"most_used_tool",
+
+			"learn_demo_video",
+			"medium_native_ad",
+			"status",
+
+			"bottom_cta"
+		],
+		"explore": [
+			"status",
+			"most_used_tool",
+			"chat_analysis",
+			"caption_quick_reply",
+			"funny_chat",
+			"medium_native_ad"
+
+		]
+	}
+}
