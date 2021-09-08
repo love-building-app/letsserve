@@ -13,7 +13,8 @@
 			"caption_quick_reply",
 			"funny_chat",
 			"medium_native_ad",
-			"bulk_sender"
+			"bulk_sender",
+			"learn_demo_video"
 		]
 	},
 	"business": {
@@ -25,8 +26,8 @@
 			"bottom_cta"
 		],
 		"explore": [
-			"status",
 			"most_used_tool",
+			"status",
 			"chat_analysis",
 			"caption_quick_reply",
 			"funny_chat",
@@ -39,15 +40,12 @@
 			"bulk_sender",
 			"direct_chat",
 			"most_used_tool",
-
 			"learn_demo_video",
 			"medium_native_ad",
 			"status",
-
 			"bottom_cta"
 		],
 		"explore": [
-			"status",
 			"most_used_tool",
 			"chat_analysis",
 			"caption_quick_reply",
