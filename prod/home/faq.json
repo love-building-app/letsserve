@@ -1,0 +1,78 @@
+[
+    
+    {
+        "id": "01",
+        "question": "Automatic forwarding in Bulk Messaging section is not working? Explain.",
+        "answer": "01"
+    },
+    {
+        "id": "02",
+        "question": "Did I get banned even after enabling the anti-ban feature of the WhatsTool App?",
+        "answer": "02"
+    },
+    {
+        "id": "03",
+        "question": "My Amount got deducted but the plan is not get activated on WhatsTool App?",
+        "answer": "03"
+    },
+    {
+        "id": "04",
+        "question": "Show error message when trying to purchase the plan on WhatsTool App?",
+        "answer": "04"
+    },
+    {
+        "id": "05",
+        "question": "Automatic forwarding is not working with attachments but does it works fine with a text message?",
+        "answer": "05"
+    },
+    {
+        "id": "06",
+        "question": "Showing less contacts than my actual number of contacts on WhatsTool App?",
+        "answer": "06"
+    },
+    {
+        "id": "07",
+        "question": "My Premium Plan of WhatsTool App got disappeared?",
+        "answer": "07"
+    },
+    {
+        "id": "08",
+        "question": "Is automatic forwarding/sending not working?",
+        "answer": "Follow these steps to fix the Automatic Sending issue?<br/><ol><li>Make sure you have turned on both the Accessibility Service of WhatsTool (Learn how to turn the Accessibility Service on).</li><li>If you have turned on and still not working then restart the phone and try again.</li><li>Make sure you have turned off Battery Saver mode.</li></ol>"
+    },
+    {
+        "id": "09",
+        "question": "How to avoid/reduce number banning/blocking while messaging?",
+        "answer": "Here are some recommendations to reduce the chances of number blocking!<br/><ol><li>Format the messages in an interactive manner. Such that the person receiving the message thinks that it’s a real conversational message instead of a robotic -promotional message.</li><li>Set a random time gap between messages (premium feature).</li><li>Send name customized messages (premium feature).</li><li>Don’t send from your personal/main business number.</li><li>Start slow, increase the number of messages gradually (Ex – Day 1: 100 messages in 2 slots, Day 2: 150 Messages in 3-4 slots).</li><li>Don’t send over WiFi (Use mobile internet).</li><li>Don’t send to unknown contacts, obtain prior consent before sending the messages.</li><li>Don’t send more than 100 in one go</li><li>Don’t send more than 500 messages on the first day.</li></ol><p><b>NOTE:</b> THESE RECOMMENDATIONS ARE ONLY FOR YOUR HELP. NUMBER MIGHT GET BLOCKED EVEN AFTER FOLLOWING THIS!</p><p>See what you can do to make sure that people do not report you and what you can do AFTER your number gets blocked.</p>"
+    },
+    {
+        "id": "10",
+        "question": "How many contacts you can share automatically?",
+        "answer": "<p>You can share with all contacts but it will take as much time as many contacts you have. We are working on making the choice of contacts more robust and easy.</p>"
+    },
+    {
+        "id": "11",
+        "question": "How to enable Accessibility Service for WhatsTool to start sending Automatically?",
+        "answer": "Follow the below steps to enable Accessibility Service for WhatsTool to start sending Automatically:<ul><li>Go to Setting of the phone</li><li>Search for “Accessibility Service”</li><li>You will see a screen like below</li><li>Under the Downloaded Service, you will see the WhatsTool app icon</li><li>Click on that and you will see the below screen where you have to turn it on</li><li>Now you need to turn on both the WhatsTool Service.</li></ul><p>Now your Accessibility services are enabled</p>"
+    },
+    {
+        "id": "12",
+        "question": "Follow rules for importing Contact Excel Sheet (.csv) file.",
+        "answer": "Follow these rules for Importing Contact Excel Sheet<ol><li>Excel sheet should be of only .csv type.</li><li>The column should be in the following order - Phone Number, Name , Country Code</li><li>Phone number should be of only WhatsApp user. If it is not present in WhatsApp then you will be blocked while sending automatically.</li><li>The name is Optional.</li><li>Country Code is Optional. If you provide country code here then it will be picked else we will pick the default one you have selected in the Automatic Sending Screen</li></ol><p>Sample Image of an Importing Contact Excel Sheet in .csv file</p>"
+    },
+    {
+        "id": "13",
+        "question": "Demo for Bulk Automatic Forwarding Message to WhatsApp.",
+        "answer": "<ol><li>Bulk Message Sending to more than 100+ contacts automatically on WhatsApp demo video</li><ul><li>Learn how to get started using the bulk sending</li><li>Learn how to start/pause/resume sending</li><li>Check how you can add a delay in between sending messages</li><li>Learn how to send a message to all contacts at once</li><li>Check how to enable the Anti-Ban feature</li></ul><li>Demo Video of Automatic Forwarding in WhatsTool</li><ul><li>Learn how to enable accessibility service to start sending automatically</li></ul></ol>"
+    },
+    {
+        "id": "14",
+        "question": "Why attachments are going as links?",
+        "answer": "We are sending attachments as links due to the following reasons:<ul><li>If we will attach a picture while sending each message in automatic bulk sending, then it will take a lot of time and bandwidth of your internet which looks very unreasonable. (We tested by sending 2 images to 100 contacts - Increase in time, 100*2 secs (depend on internet speed) with 100 times sending the same image took more than 100 MB of data ). Imagine with videos, audio, and pdf for this problem.</li><li>Sending through a link solves that problem and it is reusable.</li><li>We have kept the design so simple and as much as possible like WhatsApp.</li><li>We have added a chat in that webpage so that user can chat with you directly.</li><li>It is completely secure and private.</li></ul>"
+    },
+    {
+        "id": "15",
+        "question": "How to start Automatic Forwarding?",
+        "answer": "Watch this video or Follow the below steps to start sending an automatic message to all users:<ul><li>Go to Automatic Sender</li><li>Select Contacts and write your message</li><li>Click on Start Sending Button</li><li>Now choose Automatic and again click Start Sending</li><li>If you have already enabled Accessibility Service than it will start sending a message to all users</li><li>Else follow the “How to enable Accessibility Service for WhatsTool” question from the FAQ</li></ul>"
+    }
+]
