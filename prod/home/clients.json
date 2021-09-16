@@ -20,12 +20,6 @@
     },
     {
         "id": "4",
-        "title": "Swastiik Batteries",
-        "image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/clients/swastiikbatteries.png",
-        "url": "https://showroom.dotpe.in/swastiikbatteries"
-    },
-    {
-        "id": "5",
         "title": "Tacos Chonchos",
         "image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/clients/tacoschonchos.png",
         "url": "https://tacoschonchos.blogspot.com/"
