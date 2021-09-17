@@ -1,44 +1,43 @@
 [
-    
     {
         "id": "01",
         "question": "Automatic forwarding in Bulk Messaging section is not working? Explain.",
-        "answer": "01"
+        "answer": "We have resolved this issue completely in the new update. You go to Google Play Store and update the app, your issue will be fixed."
     },
     {
         "id": "02",
         "question": "Did I get banned even after enabling the anti-ban feature of the WhatsTool App?",
-        "answer": "02"
+        "answer": "<p>No, you will not get banned on WhatsApp after you enable the Anti-Ban feature of the WhatsTool app. All you have to do is buy the premium plan and after that, you can enable the anti-ban feature.</p>"
     },
     {
         "id": "03",
         "question": "My Amount got deducted but the plan is not get activated on WhatsTool App?",
-        "answer": "03"
+        "answer": "All the issues of payment have been removed and also now a new payment gateway has been integrated in the app so that now anyone can make payment from anywhere in the whole world. We have resolved this issue in the new update. You go to Google Play Store and update the app, your issue will be fixed."
     },
     {
         "id": "04",
-        "question": "Show error message when trying to purchase the plan on WhatsTool App?",
-        "answer": "04"
+        "question": "Show error message when I'm trying to purchase the plan on WhatsTool App?",
+        "answer": "This is a cache issue, you just close the app and open it again then you will not have any problem.<br/>We have resolved this error in the new update. You go to Google Play Store and update the app, your issue will be fixed."
     },
     {
         "id": "05",
         "question": "Automatic forwarding is not working with attachments but does it works fine with a text message?",
-        "answer": "05"
+        "answer": "Now you will be able to send any type of attachment through bulk message forwarding.<br/>We have resolved this issue in the new update. You go to Google Play Store and update the app, your issue will be fixed."
     },
     {
         "id": "06",
         "question": "Showing less contacts than my actual number of contacts on WhatsTool App?",
-        "answer": "06"
+        "answer": "We have resolved this issue in the new update. You go to Google Play Store and update the app, your issue will be fixed."
     },
     {
         "id": "07",
         "question": "My Premium Plan of WhatsTool App got disappeared?",
-        "answer": "07"
+        "answer": "We have resolved this issue in the new update. You go to Google Play Store and update the app, your issue will be fixed."
     },
     {
         "id": "08",
         "question": "Is automatic forwarding/sending not working?",
-        "answer": "Follow these steps to fix the Automatic Sending issue?<br/><ol><li>Make sure you have turned on both the Accessibility Service of WhatsTool (Learn how to turn the Accessibility Service on).</li><li>If you have turned on and still not working then restart the phone and try again.</li><li>Make sure you have turned off Battery Saver mode.</li></ol>"
+        "answer": "<p>Follow these steps to fix the Automatic Sending issue?</p><br/><ol><li>Make sure you have turned on both the Accessibility Service of WhatsTool (Learn how to turn the Accessibility Service on).</li><li>If you have turned on and still not working then restart the phone and try again.</li><li>Make sure you have turned off Battery Saver mode.</li></ol>"
     },
     {
         "id": "09",
