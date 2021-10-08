@@ -1,0 +1,11 @@
+[
+    {"atr":"direct_chat","title":"Direct Chat","url":"/features/direct-chat-with-an-unsaved-number","image":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/icons/chat.png"},
+    {"atr":"funny_message","title":"Funny Messages","url":"/features/funny-messages","image":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/icons/funny.png"},
+    {"atr":"caption","title":"Caption","url":"/features/caption-status","image":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/icons/caption.png"},
+    {"atr":"quick_reply","title":"Quick Reply","url":"/features/quick-reply","image":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/icons/reply.png"},
+    {"atr":"bulk_msg","title":"Bulk Messaging","url":"/features/bulk-whatsapp-sender-android-app","image":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/icons/bulk.png"},
+    {"atr":"recover_chat","title":"Recover Chat","url":"/features/recover-deleted-whatsapp-chat","image":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/icons/recover_chat.png"},
+    {"atr":"chat_report","title":"Chat Report","url":"/features/detailed-whatsapp-chat-report","image":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/icons/chat_report.png"},
+    {"atr":"status_download","title":"Status Download","url":"/features/whatsapp-images-videos-status-downloader","image":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/icons/download.png"},
+    {"atr":"video_spliter","title":"Video Spliter","url":"/features/whatsapp-status-video-spliter","image":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/icons/video_spliter.gif"}
+]
