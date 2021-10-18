@@ -1,7 +1,7 @@
 [
     {"atr":"direct_chat","title":"Direct Chat","url":"/features/direct-chat-with-an-unsaved-number","image":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/icons/chat.png"},
     {"atr":"funny_message","title":"Funny Messages","url":"/features/funny-messages","image":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/icons/funny.png"},
-    {"atr":"caption","title":"Caption","url":"/features/caption-status","image":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/icons/caption.png"},
+    {"atr":"caption","title":"Caption","url":"/features/best-captions-for-instagram-post-and-whatsapp-status","image":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/icons/caption.png"},
     {"atr":"quick_reply","title":"Quick Reply","url":"/features/quick-reply","image":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/icons/reply.png"},
     {"atr":"bulk_msg","title":"Bulk Messaging","url":"/features/bulk-whatsapp-sender-android-app","image":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/icons/bulk.png"},
     {"atr":"recover_chat","title":"Recover Chat","url":"/features/recover-deleted-whatsapp-chat","image":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/icons/recover_chat.png"},
