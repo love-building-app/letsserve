@@ -2,77 +2,233 @@
     {
         "id": "01",
         "question": "How to start Automatic Forwarding?",
-        "answer": "Watch this video or Follow the below steps to start sending an automatic message to all users:<ul><li>Go to Automatic Sender</li><li>Select Contacts and write your message</li><li>Click on Start Sending Button</li><li>Now choose Automatic and again click Start Sending</li><li>If you have already enabled Accessibility Service than it will start sending a message to all users</li><li>Else follow the “How to enable Accessibility Service for WhatsTool” question from the FAQ</li></ul>"
+        "answer": "Watch this video or Follow the below steps to start sending an automatic message to all users:<ul><li>Go to Automatic Sender</li><li>Select Contacts and write your message</li><li>Click on Start Sending Button</li><li>Now choose Automatic and again click Start Sending</li><li>If you have already enabled Accessibility Service than it will start sending a message to all users</li><li>Else follow the “How to enable Accessibility Service for WhatsTool” question from the FAQ</li></ul>",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/how-to-start-automatic-forwarding/"
     },
     {
         "id": "02",
         "question": "How to enable Accessibility Service for WhatsTool to start sending Automatically?",
-        "answer": "Follow the below steps to enable Accessibility Service for WhatsTool to start sending Automatically:<ul><li>Go to Setting of the phone</li><li>Search for “Accessibility Service”</li><li>You will see a screen like below</li><li>Under the Downloaded Service, you will see the WhatsTool app icon</li><li>Click on that and you will see the below screen where you have to turn it on</li><li>Now you need to turn on both the WhatsTool Service.</li></ul><p>Now your Accessibility services are enabled</p>"
+        "answer": "Follow the below steps to enable Accessibility Service for WhatsTool to start sending Automatically:<ul><li>Go to Setting of the phone</li><li>Search for “Accessibility Service”</li><li>You will see a screen like below</li><li>Under the Downloaded Service, you will see the WhatsTool app icon</li><li>Click on that and you will see the below screen where you have to turn it on</li><li>Now you need to turn on both the WhatsTool Service.</li></ul><p>Now your Accessibility services are enabled</p>",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/how-to-enable-accessibility-service-for-whatstool-to-start-sending-automatically/"
     },
     {
         "id": "03",
         "question": "Why attachments are going as links?",
-        "answer": "We are sending attachments as links due to the following reasons:<ul><li>If we will attach a picture while sending each message in automatic bulk sending, then it will take a lot of time and bandwidth of your internet which looks very unreasonable. (We tested by sending 2 images to 100 contacts - Increase in time, 100*2 secs (depend on internet speed) with 100 times sending the same image took more than 100 MB of data ). Imagine with videos, audio, and pdf for this problem.</li><li>Sending through a link solves that problem and it is reusable.</li><li>We have kept the design so simple and as much as possible like WhatsApp.</li><li>We have added a chat in that webpage so that user can chat with you directly.</li><li>It is completely secure and private.</li></ul>"
+        "answer": "We are sending attachments as links due to the following reasons:<ul><li>If we will attach a picture while sending each message in automatic bulk sending, then it will take a lot of time and bandwidth of your internet which looks very unreasonable. (We tested by sending 2 images to 100 contacts - Increase in time, 100*2 secs (depend on internet speed) with 100 times sending the same image took more than 100 MB of data ). Imagine with videos, audio, and pdf for this problem.</li><li>Sending through a link solves that problem and it is reusable.</li><li>We have kept the design so simple and as much as possible like WhatsApp.</li><li>We have added a chat in that webpage so that user can chat with you directly.</li><li>It is completely secure and private.</li></ul>",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/why-attachments-are-going-as-links/"
     },
     {
         "id": "04",
-        "question": "Demo for Bulk Automatic Forwarding Message to WhatsApp.",
-        "answer": "<ol><li>Bulk Message Sending to more than 100+ contacts automatically on WhatsApp demo video</li><ul><li>Learn how to get started using the bulk sending</li><li>Learn how to start/pause/resume sending</li><li>Check how you can add a delay in between sending messages</li><li>Learn how to send a message to all contacts at once</li><li>Check how to enable the Anti-Ban feature</li></ul><li>Demo Video of Automatic Forwarding in WhatsTool</li><ul><li>Learn how to enable accessibility service to start sending automatically</li></ul></ol>"
+        "question": "How to avoid/reduce number banning/blocking while messaging?",
+        "answer": "Here are some recommendations to reduce the chances of number blocking!<br/><ol><li>Format the messages in an interactive manner. Such that the person receiving the message thinks that it’s a real conversational message instead of a robotic -promotional message.</li><li>Set a random time gap between messages (premium feature).</li><li>Send name customized messages (premium feature).</li><li>Don’t send from your personal/main business number.</li><li>Start slow, increase the number of messages gradually (Ex – Day 1: 100 messages in 2 slots, Day 2: 150 Messages in 3-4 slots).</li><li>Don’t send over WiFi (Use mobile internet).</li><li>Don’t send to unknown contacts, obtain prior consent before sending the messages.</li><li>Don’t send more than 100 in one go</li><li>Don’t send more than 500 messages on the first day.</li></ol><p><b>NOTE:</b> THESE RECOMMENDATIONS ARE ONLY FOR YOUR HELP. NUMBER MIGHT GET BLOCKED EVEN AFTER FOLLOWING THIS!</p><p>See what you can do to make sure that people do not report you and what you can do AFTER your number gets blocked.</p>",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/how-to-avoid-number-banning-blocking-while-messaging-whatstool-tech/"
     },
     {
         "id": "05",
-        "question": "How to avoid/reduce number banning/blocking while messaging?",
-        "answer": "Here are some recommendations to reduce the chances of number blocking!<br/><ol><li>Format the messages in an interactive manner. Such that the person receiving the message thinks that it’s a real conversational message instead of a robotic -promotional message.</li><li>Set a random time gap between messages (premium feature).</li><li>Send name customized messages (premium feature).</li><li>Don’t send from your personal/main business number.</li><li>Start slow, increase the number of messages gradually (Ex – Day 1: 100 messages in 2 slots, Day 2: 150 Messages in 3-4 slots).</li><li>Don’t send over WiFi (Use mobile internet).</li><li>Don’t send to unknown contacts, obtain prior consent before sending the messages.</li><li>Don’t send more than 100 in one go</li><li>Don’t send more than 500 messages on the first day.</li></ol><p><b>NOTE:</b> THESE RECOMMENDATIONS ARE ONLY FOR YOUR HELP. NUMBER MIGHT GET BLOCKED EVEN AFTER FOLLOWING THIS!</p><p>See what you can do to make sure that people do not report you and what you can do AFTER your number gets blocked.</p>"
+        "question": "How many contacts you can share automatically?",
+        "answer": "<p>You can share with all contacts but it will take as much time as many contacts you have. We are working on making the choice of contacts more robust and easy.</p>",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/how-many-contacts-you-can-share-automatically-whatstool-tech/"
     },
     {
         "id": "06",
-        "question": "How many contacts you can share automatically?",
-        "answer": "<p>You can share with all contacts but it will take as much time as many contacts you have. We are working on making the choice of contacts more robust and easy.</p>"
+        "question": "Follow rules for importing Contact Excel Sheet (.csv) file.",
+        "answer": "Follow these rules for Importing Contact Excel Sheet<ol><li>Excel sheet should be of only .csv type.</li><li>The column should be in the following order - Phone Number, Name , Country Code</li><li>Phone number should be of only WhatsApp user. If it is not present in WhatsApp then you will be blocked while sending automatically.</li><li>The name is Optional.</li><li>Country Code is Optional. If you provide country code here then it will be picked else we will pick the default one you have selected in the Automatic Sending Screen</li></ol><p>Sample Image of an Importing Contact Excel Sheet in .csv file</p>",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/follow-rules-for-importing-contact-excel-sheet-csv-file/"
     },
     {
         "id": "07",
-        "question": "Follow rules for importing Contact Excel Sheet (.csv) file.",
-        "answer": "Follow these rules for Importing Contact Excel Sheet<ol><li>Excel sheet should be of only .csv type.</li><li>The column should be in the following order - Phone Number, Name , Country Code</li><li>Phone number should be of only WhatsApp user. If it is not present in WhatsApp then you will be blocked while sending automatically.</li><li>The name is Optional.</li><li>Country Code is Optional. If you provide country code here then it will be picked else we will pick the default one you have selected in the Automatic Sending Screen</li></ol><p>Sample Image of an Importing Contact Excel Sheet in .csv file</p>"
+        "question": "Did I get banned even after enabling the anti-ban feature of the WhatsTool App?",
+        "answer": "<p>First,we must tell you why your whatsApp gets banned:<br/>This happens when you send messages to some unknown numbers and they block you for some reason, WhatsApp finds this unusual and bans your account.<br/>And the anti-ban reduces this risk very much.<br/>Still we suggest:- <br/>To avoid getting banned try not to send messages to such numbers who could block you after seeing your message.Or if it is still necessarily important then try to keep it in moderation.</p>",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/did-i-get-banned-even-after-enabling-the-anti-ban-feature-of-the-whatstool-app/"
     },
     {
         "id": "08",
-        "question": "Automatic forwarding in Bulk Messaging section is not working? Explain.",
-        "answer": "We have resolved this issue completely in the new update. You go to Google Play Store and update the app, your issue will be fixed."
+        "question": "My Amount got deducted but the plan is not get activated on WhatsTool App?",
+        "answer": "All the issues of payment have been removed and also now a new payment gateway has been integrated in the app so that now anyone can make payment from anywhere in the whole world. We have resolved this issue in the new update. You go to Google Play Store and update the app, your issue will be fixed.",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/my-amount-got-deducted-but-the-plan-is-not-get-activated-on-whatstool-app/"
     },
     {
         "id": "09",
-        "question": "Did I get banned even after enabling the anti-ban feature of the WhatsTool App?",
-        "answer": "<p>First,we must tell you why your whatsApp gets banned:<br/>This happens when you send messages to some unknown numbers and they block you for some reason, WhatsApp finds this unusual and bans your account.<br/>And the anti-ban reduces this risk very much.<br/>Still we suggest:- <br/>To avoid getting banned try not to send messages to such numbers who could block you after seeing your message.Or if it is still necessarily important then try to keep it in moderation.</p>"
+        "question": "Show error message when I'm trying to purchase the plan on WhatsTool App?",
+        "answer": "This is a cache issue, you just close the app and open it again then you will not have any problem.<br/>We have resolved this error in the new update. You go to Google Play Store and update the app, your issue will be fixed.",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/show-error-message-when-im-trying-to-purchase-the-plan-on-whatstool-app/"
     },
     {
         "id": "10",
-        "question": "My Amount got deducted but the plan is not get activated on WhatsTool App?",
-        "answer": "All the issues of payment have been removed and also now a new payment gateway has been integrated in the app so that now anyone can make payment from anywhere in the whole world. We have resolved this issue in the new update. You go to Google Play Store and update the app, your issue will be fixed."
-    },
-    {
-        "id": "11",
-        "question": "Show error message when I'm trying to purchase the plan on WhatsTool App?",
-        "answer": "This is a cache issue, you just close the app and open it again then you will not have any problem.<br/>We have resolved this error in the new update. You go to Google Play Store and update the app, your issue will be fixed."
-    },
-    {
-        "id": "12",
         "question": "Automatic forwarding is not working with attachments but does it works fine with a text message?",
-        "answer": "Now you will be able to send any type of attachment through bulk message forwarding.<br/>We have resolved this issue in the new update. You go to Google Play Store and update the app, your issue will be fixed."
+        "answer": "Now you will be able to send any type of attachment through bulk message forwarding.<br/>We have resolved this issue in the new update. You go to Google Play Store and update the app, your issue will be fixed.",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/automatic-forwarding-is-not-working-with-attachments-but-does-it-works-fine-with-a-text-message/"
     },
     
     {
-        "id": "13",
+        "id": "11",
         "question": "Showing less contacts than my actual number of contacts on WhatsTool App?",
-        "answer": "We have resolved this issue in the new update. You go to Google Play Store and update the app, your issue will be fixed."
+        "answer": "We have resolved this issue in the new update. You go to Google Play Store and update the app, your issue will be fixed.",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/showing-less-contacts-than-my-actual-number-of-contacts-on-whatstool-app/"
+    },
+    {
+        "id": "12",
+        "question": "My Premium Plan of WhatsTool App got disappeared?",
+        "answer": "We have resolved this issue in the new update. You go to Google Play Store and update the app, your issue will be fixed.",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/my-premium-plan-of-whatstool-app-got-disappeared/"
+    },
+    {
+        "id": "13",
+        "question": "Is automatic forwarding/sending not working?",
+        "answer": "<p>Follow these steps to fix the Automatic Sending issue?</p><br/><ol><li>Make sure you have turned on both the Accessibility Service of WhatsTool (Learn how to turn the Accessibility Service on).</li><li>If you have turned on and still not working then restart the phone and try again.</li><li>Make sure you have turned off Battery Saver mode.</li></ol>",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/is-automatic-forwarding-sending-not-working-whatstool-tech/"
     },
     {
         "id": "14",
-        "question": "My Premium Plan of WhatsTool App got disappeared?",
-        "answer": "We have resolved this issue in the new update. You go to Google Play Store and update the app, your issue will be fixed."
+        "question": "What are Bulk WhatsApp Messages and How To Effectively Use It For Your Business?",
+        "answer": "<p>That time had gone when people used to use Whatsapp only to make conversations with relatives, share jokes with friends and family, and get the latest updates. Today, businesses and companies are using this favored application to fasten more with clients. After all, a substantial number of people are using it worldwide. Its high usage and popularity make it an outstanding way of doing marketing and growing business. But what if you want to send mass messages to a large number of customers? Does Whatsapp provide any feature like sending bulk messages? Well, you must consider yourself lucky because this is where WhatsTool enters into the picture. But what does WhatsTool mean? How can you utilize its surprising features? Please have some patience and keep reading as we will resolve each and every query regarding WhatsTool.</p>",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/what-are-bulk-whatsapp-messages-and-how-to-effectively-use-it-for-your-business/"
     },
     {
         "id": "15",
-        "question": "Is automatic forwarding/sending not working?",
-        "answer": "<p>Follow these steps to fix the Automatic Sending issue?</p><br/><ol><li>Make sure you have turned on both the Accessibility Service of WhatsTool (Learn how to turn the Accessibility Service on).</li><li>If you have turned on and still not working then restart the phone and try again.</li><li>Make sure you have turned off Battery Saver mode.</li></ol>"
+        "question": "How to send bulk messages to your customers?",
+        "answer": "<p>In the last two decades, message service has become one of the most common ways to make conversation or communicate with other people. Many companies use this platform as a primary source for marketing regarding the money-transfer conversation and advertisement. When it comes to enhancing the visibility of any brand and the growth of any business, people always prefer to use bulk messages. But before using bulk messages in your business, it is necessary to understand the advantages of sending them to your customers. To know-how, keep reading further.</p>",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/how-to-send-bulk-messages-to-your-customers/"
+    },
+    {
+        "id": "16",
+        "question": "3 Reasons to use WhatsTool for Bulk Messages in WhatsApp for Salesforce users.",
+        "answer": "<p>Almost everybody in this world is familiar with WhatsApp and SMS. They know how to send videos and pictures to their relatives personally and professionally as well. In addition to WhatsApp, if you add the amazing service of WhatsTool bulk messages in your profession, it will provide your business with a productive value. Without investing too much time, effort, and money, it will raise your B2C and B2B business.<br/>To increase the number of customers, you must work in the way of bulk messages. But first, you need to know why you should use WhatsTool for bulk messages in Whatsapp if you are a Salesforce user. If you are going to use it for text messages, polling, sending promotional images/videos/messages, or for anything else, there is always a set of technology that you should follow. Also, you must understand how these digital practices alter with different purposes.<br/>This article will go through some of the main reasons why employing bulk WhatsApp messaging for salesforce users is a good idea.</p>",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/3-reasons-to-use-whatstool-for-bulk-messages-in-whatsapp-for-salesforce-users/"
+    },
+    {
+        "id": "17",
+        "question": "How can I send bulk messages on WhatsApp without getting banned?",
+        "answer": "<p>WhatsApp is like an overprotective mother who doesn’t want its customers to be sad because they’ve received spam or junk messages. Thus, the only solution left is to restrict everything that looks like spam. But if you have too many clients who are waiting for your message, this might be a major problem. There are chances that you get banned by WhatsApp. To reduce the chances of getting blocked, you must consider the below-written points.</p>",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/how-can-i-send-bulk-messages-on-whatsapp-without-getting-banned/"
+    },
+    {
+        "id": "18",
+        "question": "Best Tools available for Sending Bulk Messages on WhatsApp Business.",
+        "answer": "<p>Do you know how the benefits of sending bulk messages strike the digital market? Almost all the fresh entrepreneurs, companies, and business people are relishing the ease and merits of WhatsApp bulk message sender applications. Along with Whatsapp, people use different tools for promoting their business and brands. It is the best way to take your business to sky level by using the best marketing tool. <br/> But from the truckload of tools in the market, how to know which tool is the best? Don’t sweat it!! In this article, to find a suitable tool for your business, we have assorted a few best tools you can utilize. </p>",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/best-tools-available-for-sending-bulk-messages-on-whatsapp-business/"
+    },
+    {
+        "id": "19",
+        "question": "Whatsapp Marketing: The new way to reach your customers.",
+        "answer": "<p>WhatsApp has become a robust worldwide tool that allows companies and businesses to reach their clients in an advanced way. To be in the race of technology, all the businessmen and companies need to knock on this article shortly and utilize the advantages of this amazing network. At this instant, we will show you how to press into the service of WhatsApp marketing and make your business grow more and more. We request you not to skip this opportunity while your contenders haven’t arrived yet! Come and look at the reasons why you should insert WhatsApp marketing in your business. </p>",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/whatsapp-marketing-the-new-way-to-reach-your-customers/"
+    },
+    {
+        "id": "20",
+        "question": "Is there any way to send personalized bulk messages on WhatsApp?",
+        "answer": "<p>In terms of communicating and sending promotional messages, no other application can beat the ease and convenience of WhatsApp. It has risen and shone with several extraordinary features and upgrades. With the safest privacy policies, it has made several comebacks. Thus, as of now, there is no uncertainty that there is another application that can come into a race with WhatsApp. Due to its high usage and popularity, it has earned billions of users today. <br/> Along with a normal conversation, numerous business and company owners also send bulk messages to their customers. They interact with their clients regarding their services, facilities, products, and subscriptions by sending bulk messages.</p>",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/is-there-any-way-to-send-personalized-bulk-messages-on-whatsapp/"
+    },
+    {
+        "id": "21",
+        "question": "Is it possible to send bulk messages via WhatsApp?",
+        "answer": "<p>WhatsApp today has become the most useful messaging tool for business and chat purposes. It allows the individuals to create a messaging group and interact with multiple people at one time. Today, many businesses are also using this messaging platform for business purposes as it allows them to share information and build customer loyalty. <br/> But… Is it possible to send bulk messages via WhatsApp? <br/> Yes, it is possible to send bulk messages but only up to hundreds and a limited distribution list. This app allows the users to contact multiple contacts at the same time without copy and pasting the text over and over again. <br/>However, in most cases, WhatsApp considers the bulk messaging as spam and may penalize the bulk message sender. To avoid such issues, you can use WhatsTool for sending bulk messages.</p>",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/is-it-possible-to-send-bulk-messages-via-whatsapp/"
+    },
+    {
+        "id": "22",
+        "question": "How to send bulk messages on WhatsApp without broadcasting?",
+        "answer": "<p>WhatsApp has made it easy to communicate with the people you care about. This application not only offers you to converse personally with your favorites, but you can also engage with more than one person. The broadcast feature of WhatsApp makes multiple contact communication attainable for you. These days, people are using this feature in their business for more customer engagement. If you are also managing a WhatsApp business by sending bulk messages, you must keep reading for more information. After skimming over this article, you will become capable of sending bulk messages without using broadcasts as well.</p>",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/how-to-send-bulk-messages-on-whatsapp-without-broadcasting/"
+    },
+    {
+        "id": "23",
+        "question": "How could you send bulk messages on WhatsApp without creating a group?",
+        "answer": "<p>WhatsApp is one of the most popular applications that provide many customers with a fantastic platform to communicate. People share numerous jokes, pieces of information, and much more with their relatives and loved ones. Along with fun and entertainment, sometimes WhatsApp becomes a pain. It annoys us when we get added to many groups. It becomes hectic to keep track of all the chats. <br/>Many times, there comes a situation when you need to send messages to a list of contacts that are not in a single group. It becomes laborious to select all the desired contacts appropriately and send them your business messages. At this instance, a question comes into mind: Is there any other way to send bulk messages without creating groups? <br/>Yes, there is a way where you don’t need to build an annoying group. The broadcast list feature permits you to dispatch messages to your needed contacts at once. It allows you to send messages to your broadcast list contacts over and over. This feature will keep you away from all the mess of creating unnecessary groups.</p>",
+        "tag": "bulk_msg",
+        "url": ""
+    },
+    {
+        "id": "24",
+        "question": "What software can help me to send bulk messages on WhatsApp without being blocked at a reasonable price?",
+        "answer": "<p>WhatsApp being the most favoured communicating application has gathered an inexhaustible number of customers from all over the world. For infinite companies and businesses, it has become an integral part on which they are immensely dependable. They are inevitably using this platform to converse and connect more with their customers. Undoubtedly, WhatsApp is a great place to send promotional messages to clients, but it also comes with a few drawbacks. It doesn’t allow any advertisement, and it becomes essential to utilize its benefits lawfully and under the terms and conditions.</p>",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/what-software-can-help-me-to-send-bulk-messages-on-whatsapp-without-being-blocked-at-a-reasonable-price/"
+    },
+    {
+        "id": "25",
+        "question": "Is there an app that can send automated WhatsApp messages?",
+        "answer": "<p>WhatsApp is the only app loaded with incredible features such as GIFs, stickers, an all-time conversation platform, status, and much more. Whenever a person needs to ping someone, even at 2 am, WhatsApp provides a suitable platform to all its users. Loaded with tons of features, still, a few features are there that make WhatsApp incomplete. It doesn’t have the attribute of scheduling messages.<br/>What is message scheduling? Let’s take an example: you want to wish your relative for their anniversary or birthday, but due to workload, you can’t send them an appropriate birthday or anniversary message. Instead of calling them in the middle of the night, there is a requirement of scheduling a message. But unfortunately, WhatsApp doesn’t help you with this feature.</p>",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/is-there-an-app-that-can-send-automated-whatsapp-messages/"
+    },
+    {
+        "id": "26",
+        "question": "How can I send bulk messages on WhatsApp to numbers not saved on my phone?",
+        "answer": "<p>WhatsApp is by far the most popular messaging app on the globe. It has become an integral part of our lives, even plays a different role than sending messages and making calls. For business people, it plays a bit larger role in sending bulk messages to the customers. Sometimes, people get annoyed by saving endless numbers on their mobile phones. Saving all the contact numbers makes your address book confusing and challenging to use when you haste. So, several times, we need to send promotional messages to our customers, but saving their numbers looks like running up annoyingly. <br/>With ease and convenience, WhatsApp also comes with a few annoying drawbacks. Sending bulk messages without saving contacts is one of them. People get puzzled about how to send WhatsApp messages without saving contact numbers in the phonebook. Although WhatsApp doesn’t provide you with this benefit, we are introducing here the software that will do this job for you.<br/> There are a lot of third-party apps that can enable us to send a message to an unsaved phone number, but we aren’t always confident in their security. Thus, we are going to show you an application that is safe, secure, and convenient. Supposing that you are unaware of this software, we are here to explain to you how to send bulk messages without saving them in your contact list.</p>",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/how-can-i-send-bulk-messages-on-whatsapp-to-numbers-not-saved-on-my-phone/"
+    },
+    {
+        "id": "27",
+        "question": "How to send 1000 messages on WhatsApp?",
+        "answer": "<p>WhatsApp has become the most integral part of business these days. Whether we want to chat, share data, or just send videos, we always use WhatsApp. Today, many business vendors especially work from home and people use WhatsApp to build a business group to earn money.<br/>However, there are certain limitations to WhatsApp. You can only send one hundred or two hundred messages at once to your customers. What if you have multiple groups and need to send thousands of messages at one time?<br/>You don’t have time to copy and paste messages to all of your customers. Thanks to WhatsTool, which helps to send thousands of messages at one time.<br/>This means you don’t need to spend hours in copy and pasting work. Let’s see how you can use this tool to send thousands of messages at one time.</p>",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/how-to-send-1000-messages-on-whatsapp/"
+    },
+    {
+        "id": "28",
+        "question": "What is a WhatsApp bulk messaging service?",
+        "answer": "<p>The WhatsApp bulk messaging service has been growing bit by bit for many years. Recently, numerous people have noticed a significant growth in their businesses and companies by using WhatsApp bulk messages. To all the newbies, it may be mystifying to know about these services. Let’s have deep knowledge about it.</p>",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/what-is-a-whatsapp-bulk-messaging-service/"
+    },
+    {
+        "id": "29",
+        "question": "How to Send Mass Text Messages to Customers.",
+        "answer": "<p>Have you ever wondered how online business companies and others send mass text messages to their customers at one time? If you are an online entrepreneur, you may need to send text messages in bulk to your customers to share offers and other information.<br/>Sending mass text messages can consume a lot of time and is a hectic process. Hence, to simplify the process to send mass text messages, you can access WhatsTool. It is an advanced messaging tool that helps you send mass text more than 1000 at one time.</p>",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/how-to-send-mass-text-messages-to-customers/"
+    },
+    {
+        "id": "30",
+        "question": "How to send WhatsApp bulk messages to 10,000 contacts?",
+        "answer": "<p>With more than 5 billion users, WhatsApp has become a platform that connects countless people, which is amazing about it. But while using WhatsApp many times, we have to send the exact message to several contacts. The copy-paste technique can go with few contacts. But what to do if someone has 10,000 contacts? If you are a WhatsApp user, then there must be the same question in your mind. Isn’t it?<br/>Don’t worry; we have welcomed you here with solutions. In this particular blog, we are bringing a few procedures that can cater to you the service of sending a message to 10,000 contacts at one time. Come and explore further with us.</p>",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/how-to-send-whatsapp-bulk-messages-to-10000-contacts/"
+    },
+    {
+        "id": "31",
+        "question": "Why is WhatsApp Marketing the best way to go?",
+        "answer": "<p>Whenever we think about a medium to market our business and products by conversing with our clients, what is the foremost thing that strikes the brain? Of course! It’s WhatsApp. Although we all have adjoined other platforms in our smartphones, WhatsApp has all our hearts. And that’s truly understandable.<br/>WhatsApp doesn’t only work for making video calls and texting your remote loved ones. It works great for your business as well and considers all your business’s needs. It bridges the gap between your business and your clients, assists them with quick replies, promote your products, and keep you ahead in life.<br/>If you are still reading us, it indicates that we have atleast awakened your interest. You have become eager to know more about how effectively WhatsApp can intensify your business. At this moment, the most intelligent thing you can do is proceed towards the play store and install WhatsApp now.</p>",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/why-is-whatsapp-marketing-the-best-way-to-go/"
+    },
+    {
+        "id": "32",
+        "question": "Is Bulk Messaging on WhatsApp Legal?",
+        "answer": "<p>As a multi-featured platform, WhatsApp comes forward with endless proficiencies to its users. The application provides you free of cost wi-fi calling anytime you want. Moreover, this fantastic app is usable for both iOs and Android users. Thus, you don’t need to think too much about your recipient.<br/>The other allowable uses that you can relish with WhatsApp are voice messaging, image and video sharing, video and voice calls, and document transfer. It also amalgamates many social media features and traditional messaging and caters to its users a complete enveloping platform with end-to-end encryption.<br/>In addition to all these features, unfortunately, WhatsApp comes with a few drawbacks as well. For the period that a WhatsApp user is using this platform only to have a private conversation, WhatsApp doesn’t consider it a norm violation. Moving forward, it doesn’t restrict its users regarding dispatching product announcements, marketing, or any other communication form.<br/>As per the terms and conditions of WhatsApp, it is illegal to send promotional messages through it. If you send this uninvited content, WhatsApp can take you to court. In case it catches you sending unsolicited messages to a large group of customers, there is a possibility of you getting banned or blocked permanently. In history, it has banned millions of people’s accounts. And now it is continuously working on its privacy policies to cater a great experience to customers.</p>",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/is-bulk-messaging-on-whatsapp-legal/"
+    },
+    {
+        "id": "33",
+        "question": "How can I send bulk promotional messages on WhatsApp?",
+        "answer": "<p>The world has forgotten the traditional SMS marketing services (with a 160 character limit). The reason is the increased character limit of WhatsApp. Today, the fame of WhatsApp has been increased in such a manner that over 80% of smartphones of the world have this application. This platform allows its customers to send 1000 characters per message. Additionally, you can attach images, videos, audio, and other attachments victoriously.</p>",
+        "tag": "bulk_msg",
+        "url": "https://whatstool.in/blog/how-can-i-send-bulk-promotional-messages-on-whatsapp/"
     }
 ]
