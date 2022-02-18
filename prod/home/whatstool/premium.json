@@ -1,0 +1,22 @@
+{
+    "premium":[
+        {
+            "question": "Amount Paid but not get Upgraded?",
+            "answer": "Share the email I'd that's linked to your WhatsTool profile with our customer support and ask to upgrade your account (attach a screenshot of payment as well)."
+        },
+        {
+            "question": "I've Changed my device and my premium plan is lost?",
+            "answer": "Ask the customer support to remove the previously linked devices and to add premium on your new device,Share your linked email I'd along."
+        },
+        {
+            "question": "Ads are still showing even after upgrading the plan?",
+            "answer": "Close the application and then reopen it,Ads will get removed. If any guidance needed with Ads, ask the customer support for proper guidance."
+        },
+        {
+            "question": "Unable to send Bulk Automatic Messages through CSV?",
+            "answer": "The CSV file with numbers must have the country code added before the numbers but without the + sign."
+        }
+        
+    ]
+    
+}
