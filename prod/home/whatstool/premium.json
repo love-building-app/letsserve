@@ -15,6 +15,10 @@
         {
             "question": "Unable to send Bulk Automatic Messages through CSV?",
             "answer": "The CSV file with numbers must have the country code added before the numbers but without the + sign."
+        },
+        {
+            "question": "My debit/credit card is not working for payment... Unable to pay for the plan?",
+            "answer": "Please make sure that you've installed the application from play store only, if you've installed it from play store and it's still not passing through then Firebase might be banned in your country, in that case connect to VPN and then retry."
         }
         
     ]
