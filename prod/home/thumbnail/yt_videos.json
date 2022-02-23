@@ -22,5 +22,13 @@
         "on_app_url": "https://www.youtube-nocookie.com/embed/Y3Y3qpJp8EA?controls=0",
         "on_yt_short_url": "https://youtu.be/Y3Y3qpJp8EA",
         "on_yt_url": "https://www.youtube.com/watch?v=Y3Y3qpJp8EA"
+    },
+    {
+        "thumbnail": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/thumbnail/Select%20CSV.png",
+        "title": "How to 'Create' .CSV file for Bulk WhatsApp Sender - WhatsTool Tech",
+        "sub_title": "How to 'Create' .CSV file for Bulk WhatsApp Sender - WhatsTool Tech",
+        "on_app_url": "https://www.youtube-nocookie.com/embed/PVydidg-IDg?controls=0",
+        "on_yt_short_url": "https://youtu.be/PVydidg-IDg",
+        "on_yt_url": "https://www.youtube.com/watch?v=PVydidg-IDg"
     }
 ]
