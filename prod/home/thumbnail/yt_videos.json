@@ -1,4 +1,4 @@
-["videos":
+{"videos":[
     {
         "thumbnail": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/thumbnail/Bulk%20WhatsApp%20Demo.png",
         "title": "Bulk WhatsApp Sender - Complete Tutorial for Sending Bulk Messages on WhatsApp - WhatsTool Tech",
@@ -31,4 +31,4 @@
         "on_yt_short_url": "https://youtu.be/PVydidg-IDg",
         "on_yt_url": "https://www.youtube.com/watch?v=PVydidg-IDg"
     }
-]
+]}
