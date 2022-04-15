@@ -5,8 +5,8 @@ try {
   // }
   console.log("Loading script")
   const s = document.createElement('script');
-  // s.src = "https://d3mkw6s8thqya7.cloudfront.net/widget-plugin.js";
   s.src = "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/website_new/StartChatPopup/widget-plugin.js";
+  // s.src = "http://localhost:3000/widget-plugin.js";
   s.type = 'text/javascript';
   s.async = true;
   s.id = "df-script";
@@ -25,7 +25,7 @@ try {
 
   var xhr = new XMLHttpRequest();
   xhr.open("GET", "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/website_new/StartChatPopup/wt_id_get_req.json", true);
-  // xhr.open("GET", "http://localhost:5000/widget-details/" + widgetId, true);
+  // xhr.open("GET", "http://localhost:3000/wt_id_get_req.json", true);
   xhr.setRequestHeader('Content-Type', 'application/json');
   xhr.send();
   xhr.onload = function () {
