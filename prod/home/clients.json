@@ -3,19 +3,19 @@
     {
         "id": "1",
         "title": "Udaan",
-        "image": "https://udaan.com/images/udaan_logo_new.76047d3d58254db4303522772ef331c9.png",
+        "image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/clients/dearbehappy.png",
         "url": "https://udaan.com/"
     },
     {
         "id": "2",
         "title": "Bada Business",
-        "image": "https://images.badabusiness.com/bb-website-prod/images/logo.png",
+        "image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/clients/dearbehappy.png",
         "url": "https://www.badabusiness.com/"
     },
     {
         "id": "3",
         "title": "ISKCON",
-        "image": "https://www.iskcon.org/img/Iskconlogo.png",
+        "image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/clients/dearbehappy.png",
         "url": "https://www.iskcon.org/"
     },
     {
