@@ -2,26 +2,27 @@
     
     {
         "id": "1",
-        "title": "Tour Nick",
-        "image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/clients/tournick.png",
-        "url": "https://nitishkumar.online/"
+        "title": "Udaan",
+        "image": "https://udaan.com/images/udaan_logo_new.76047d3d58254db4303522772ef331c9.png",
+        "url": "https://udaan.com/"
     },
+    
     {
         "id": "2",
+        "title": "Bada Business",
+        "image": "https://images.badabusiness.com/bb-website-prod/images/logo.png",
+        "url": "https://www.badabusiness.com/"
+    },
+    {
+        "id": "3",
+        "title": "ISKCON",
+        "image": "https://www.iskcon.org/img/Iskconlogo.png",
+        "url": "https://www.iskcon.org/"
+    },
+    {
+        "id": "4",
         "title": "Dear B Happy",
         "image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/clients/dearbehappy.png",
         "url": "http://dearbhappy.com/"
     },
-    {
-        "id": "3",
-        "title": "Cantademia",
-        "image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/clients/cantademia.png",
-        "url": "https://cantademia.com/"
-    },
-    {
-        "id": "4",
-        "title": "Tacos Chonchos",
-        "image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/clients/tacoschonchos.png",
-        "url": "https://tacoschonchos.blogspot.com/"
-    }
 ]
