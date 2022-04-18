@@ -1,8 +1,5 @@
 try {
-  // const widgetId = document.getElementById("whatstool-wa-widget").getAttribute("widget-id");
-  // if (!widgetId || widgetId == null) {
-  //   throw new Error("Widget is invalid");
-  // }
+
   console.log("Loading script")
   const s = document.createElement('script');
   s.src = "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/website_new/StartChatPopup/widget-plugin.js";
@@ -39,7 +36,7 @@ try {
         // var btn = whatstoolLink.whatsappBtnSettings;
         whatstoolWidgetOptions = {
           "linkid": "",
-          "phoneNumber": "916200856560",
+          "phoneNumber": "918987452513",
           "variant": "WhatsAppBtnAndChatWidget",
           "btnBackground": "#4dc247",
           "btnCTA": "",

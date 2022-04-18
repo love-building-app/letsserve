@@ -70,30 +70,30 @@ function CreateWhatsAppButtonAndWidget(options) {
 		env: options.env || "",
 		linkid: options.linkid || "",
 		// Btn & Widget options
-		phoneNumber: options.phoneNumber || "+916200856560",
+		phoneNumber: options.phoneNumber || "+918987452513",
 		variant: options.variant || "WhatsAppBtnAndChatWidget",
-    btnBackground: options.btnBackground || "#4dc247",
-    btnCTA: options.btnCTA || "",
-    mb: options.mb || "30",
-    ml: options.ml || "30",
-    mr: options.mr || "30",
-    borderRadius: options.borderRadius || "24",
-    prefilledMsg: options.prefilledMsg || "Hi",
-    position: options.position || "Bottom-Right",
-    brandName: options.brandName || "WhatsTool",
-    brandSub: options.brandSub || "online",
-    brandColor: options.brandColor || "#0A5F54",
-    brandImgUrl: options.brandImgUrl || brandImage,
-    widgetBtnCTA: options.widgetBtnCTA || "Start chat",
-    openWidgetByDefault: options.openWidgetByDefault || "true",
-		openWidgetSessionWindow: options.openWidgetSessionWindow || "ALWAYS",
-    onscreenMsg: options.onscreenMsg || "Hi,\nHow can I help you ?",
-		onscreenImg: options.onscreenImg || "",
-		widgetOnMobile: options.widgetOnMobile || "true",
-		personalizedUrls: options.personalizedUrls || []
-	}
+		btnBackground: options.btnBackground || "#4dc247",
+		btnCTA: options.btnCTA || "",
+		mb: options.mb || "30",
+		ml: options.ml || "30",
+		mr: options.mr || "30",
+		borderRadius: options.borderRadius || "24",
+		prefilledMsg: options.prefilledMsg || "Hi",
+		position: options.position || "Bottom-Right",
+		brandName: options.brandName || "WhatsTool",
+		brandSub: options.brandSub || "online",
+		brandColor: options.brandColor || "#0A5F54",
+		brandImgUrl: options.brandImgUrl || brandImage,
+		widgetBtnCTA: options.widgetBtnCTA || "Start chat",
+		openWidgetByDefault: options.openWidgetByDefault || "true",
+			openWidgetSessionWindow: options.openWidgetSessionWindow || "ALWAYS",
+		onscreenMsg: options.onscreenMsg || "Hi,\nHow can I help you ?",
+			onscreenImg: options.onscreenImg || "",
+			widgetOnMobile: options.widgetOnMobile || "true",
+			personalizedUrls: options.personalizedUrls || []
+		}
 
-	console.log({ config });
+		console.log({ config });
 
 	// Retrieve onScreen message based on url
 	let customMsg = "";
