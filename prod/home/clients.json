@@ -6,7 +6,6 @@
         "image": "https://udaan.com/images/udaan_logo_new.76047d3d58254db4303522772ef331c9.png",
         "url": "https://udaan.com/"
     },
-    
     {
         "id": "2",
         "title": "Bada Business",
@@ -24,5 +23,5 @@
         "title": "Dear B Happy",
         "image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/clients/dearbehappy.png",
         "url": "http://dearbhappy.com/"
-    },
+    }
 ]
