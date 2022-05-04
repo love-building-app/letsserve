@@ -1,0 +1,28 @@
+{
+    "videos": [
+        {
+            "profile_img": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/clients/Iskcon.png",
+            "name": "ISKCON",
+            "date": "24 January 2022",
+            "review": "This app is perfect for all uses, being the best app for WhatsApp. It virtually has all features anybody would want."
+        },
+        {
+            "image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/clients/badabusiness.png",
+            "name": "Bada Business Pvt. Ltd.",
+            "date": "25 February 2022",
+            "review": "This is the perfect all in one whatsapp marketing tool you can get anywhere, its exactly what I have been looking for."
+        },
+        {
+            "image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/clients/udaan.png",
+            "name": "Udaan",
+            "date": "21 March 2022",
+            "review": "Kudos to developers and team. Great app, I am using since a year, very usefull for me."
+        },
+        {
+            "image": "https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/clients/dearbehappy.png",
+            "name": "DearBHappy",
+            "date": "10 February 2022",
+            "review": "Finally an app that works, an all in one app, look no further, this is the real deal. Ticks all the boxes for what I want."
+        }
+    ]
+}
