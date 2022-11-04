@@ -13,18 +13,27 @@
         "designation":"Software Developer",
         "image_url":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/team/ProfileMayank.jpeg",
         "sm_facebook":"https://www.facebook.com/profile.php?id=100069010212144",
-        "sm_instagram":"https://twitter.com/Mayank_UOI",
-        "sm_twitter":"https://www.instagram.com/Mayank_UOI/",
+        "sm_instagram":"https://www.instagram.com/Mayank_UOI/",
+        "sm_twitter":"https://twitter.com/Mayank_UOI",
         "sm_linkedln":"https://www.linkedin.com/in/mayank-uoi/"
     },
     {
-        "name":"Shourabh Kumar Raja",
-        "designation":"Quality Analyst",
-        "image_url":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/team/ProfileShourabh.jpeg",
+        "name":"Animesh Dey",
+        "designation":"Software Developer",
+        "image_url":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/team/ProfileAnimesh.jpeg",
         "sm_facebook":"",
         "sm_instagram":"",
         "sm_twitter":"",
-        "sm_linkedln":"https://www.linkedin.com/in/shourabh-kumar-raja-643671177/"
+        "sm_linkedln":"https://www.linkedin.com/in/dey-animesh/"
+    },
+    {
+        "name":"Madhushree BJ",
+        "designation":"UI/UX Designer",
+        "image_url":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/team/ProfileAnimesh.jpeg",
+        "sm_facebook":"",
+        "sm_instagram":"https://www.instagram.com/madhushreebj/",
+        "sm_twitter":"",
+        "sm_linkedln":"https://www.linkedin.com/in/madhushree-bj-680843180/"
     },
     {
         "name":"Suryanshu Raj",
@@ -36,12 +45,12 @@
         "sm_linkedln":"https://www.linkedin.com/in/suryanshu-raj-18a31a21b/"
     },
     {
-        "name":"Suraj Kumar",
-        "designation":"Undefined, Fits into every thing.",
-        "image_url":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/team/ProfileSuraj.jpeg",
-        "sm_facebook":"https://www.facebook.com/people/Suraj-Kumar/100022672839867/",
-        "sm_instagram":"https://www.instagram.com/suraj_0906/",
+        "name":"Shourabh Kumar Raja",
+        "designation":"Quality Analyst",
+        "image_url":"https://raw.githubusercontent.com/love-building-app/letsserve/master/prod/home/web_img/team/ProfileShourabh.jpeg",
+        "sm_facebook":"",
+        "sm_instagram":"",
         "sm_twitter":"",
-        "sm_linkedln":"https://www.linkedin.com/in/suraj-kumar-30a3a41a5/"
+        "sm_linkedln":"https://www.linkedin.com/in/shourabh-kumar-raja-643671177/"
     }
 ]
